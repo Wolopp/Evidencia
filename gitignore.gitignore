@@ -1,0 +1,7 @@
+# Ignora archivos Class
+.class
+
+
+# Ignora todos los archivos Swp
+*.swp
+
